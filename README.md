@@ -13,8 +13,7 @@
 <p dir=rtl style="direction: rtl; text-align: justify; line-height:200%; font-family:vazir; font-size:medium">
 <font face="vazir" size=3>
     از تعدادی الگوریتم ماشین لرنینگ معمولی مثل XGBoost ،Decision Tree ،Naive Bayes ،SVM ،Logistic Regression و  AdaBoost    استفاده می‌کنیم 
-        <br>
-    و دقت هر مدل را نمایش میدهیم.
+ و دقت هر مدل را نمایش میدهیم.
 
 </font>
 </p>
