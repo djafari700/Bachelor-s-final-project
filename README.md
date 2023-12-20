@@ -63,6 +63,7 @@
 </p>
 
 
+![Alt Text](/image/a-guide-to-social-network-analysis-and-its-use-cases.jpg)
 
 
 
