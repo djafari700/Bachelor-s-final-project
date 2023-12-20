@@ -57,7 +57,7 @@
 </h2>
 <p dir=rtl style="direction: rtl; text-align: justify; line-height:200%; font-family:vazir; font-size:medium">
 <font face="vazir" size=3>
-  درنهایت مدلی که بیشترین دقت را دارد برای داده‌های تست انتخاب مکنیم.
+  درنهایت مدلی که بیشترین دقت را دارد برای داده‌های تست انتخاب می‌کنیم.
 
 </font>
 </p>
