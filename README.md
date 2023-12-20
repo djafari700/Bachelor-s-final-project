@@ -41,5 +41,19 @@
 
 </font>
 </p>
+<h2 align=right style="line-height:200%;font-family:vazir;color:#0099cc">
+<font face="vazir" color="#0099cc">
+پیش‌بینی
+</font>
+</h2>
+<p dir=rtl style="direction: rtl; text-align: justify; line-height:200%; font-family:vazir; font-size:medium">
+<font face="vazir" size=3>
+  درنهایت مدلی که بیشترین دقت را دارد برای داده‌های تست انتخاب مکنیم.
+
+</font>
+</p>
+
+
+
 
 
