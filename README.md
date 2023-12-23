@@ -52,6 +52,25 @@
 </p>
 <h2 align=right style="line-height:200%;font-family:vazir;color:#0099cc">
 <font face="vazir" color="#0099cc">
+
+
+
+</font>
+</p>
+
+<h2 align=right style="line-height:200%;font-family:vazir;color:#0099cc">
+<font face="vazir" color="#0099cc">
+مرحله چهارم
+</h2>
+<p dir=rtl style="direction: rtl; text-align: justify; line-height:200%; font-family:vazir; font-size:medium">
+<font face="vazir" size=3>
+  با استفاده از الگوریتم Stack generalization دو مدل کلاسیک یادگیری ماشین را با یک مدل یادگیری عمیق ترکیب میکنیم.
+
+</font>
+</p>
+<h2 align=right style="line-height:200%;font-family:vazir;color:#0099cc">
+<font face="vazir" color="#0099cc">
+
 پیش‌بینی
 </font>
 </h2>
